@@ -4,6 +4,8 @@ subtitle: Nothing to envy
 date: 2021-10-22T14:57:43.934Z
 draft: false
 featured: false
+authors:
+  - shaynne
 image:
   filename: ""
   focal_point: ""
